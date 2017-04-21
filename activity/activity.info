@@ -1,0 +1,8 @@
+[Activity]
+name = Butia Firmware
+activity_version = 9
+bundle_id = uy.edu.fing.butiafirmware
+exec = sugar-activity Activity.ButiaFirmware
+icon = fua-icon
+show_launcher = yes
+summary = Butia firmware updater
